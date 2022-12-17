@@ -1,0 +1,31 @@
+* {
+    background-color: rgba(255, 160, 122, 0.519);
+}
+
+img {
+    width: 200px;
+    height: auto;
+}
+
+.bun {
+    background-color: rgba(210, 130, 12, 0.875);
+}
+
+.cheese {
+    background-color: rgb(234, 206, 53);
+}
+
+.ham li,
+.ham {
+    background-color: rgba(222, 171, 180, 0.9);
+}
+
+.wing1 {
+    color: rgb(189, 71, 28);
+    background-color: rgb(119, 46, 17);
+}
+
+.topple {
+    color: rgba(235, 201, 49, 0.912);
+    background-color: rgba(224, 24, 24, 0.885);
+}
